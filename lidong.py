@@ -6,3 +6,5 @@ print('有人在看美女图片')
 
 hello = '123'
 hello1 = '冯其斌'
+hallo = '123'
+print('123')
