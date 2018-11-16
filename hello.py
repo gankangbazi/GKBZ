@@ -1,4 +1,2 @@
 print(123)
-
-print("小姐姐")
-print('干死冯其斌')
+print('小水马')
