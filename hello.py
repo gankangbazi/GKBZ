@@ -8,3 +8,4 @@ b= 2
 print(a+b)
 print(b+a)
 print('小水马')
+print('学雷锋做好事')
