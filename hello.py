@@ -1,5 +1,8 @@
 print(123)
 
 print("小姐姐")
-
-print('德玛西亚')
+a= 1
+b= 2
+print(a+b)
+print(b+a)
+print('小水马')
