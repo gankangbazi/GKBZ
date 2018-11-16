@@ -4,5 +4,3 @@ print('132231312')
 
 
 hello = '123'
-hillo=sjsj
-print(12666255)
