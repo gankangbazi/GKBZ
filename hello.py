@@ -1,3 +1,6 @@
+import time
+
+
 print(123)
 print('干死小冯')
 print('干死小水马')
@@ -7,4 +10,5 @@ a= 1
 b= 2
 print(a+b)
 print(b+a)
+time.sleep(10)
 print('小水马')
